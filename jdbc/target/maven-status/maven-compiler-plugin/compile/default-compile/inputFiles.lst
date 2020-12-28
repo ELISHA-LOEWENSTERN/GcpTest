@@ -14,7 +14,10 @@ C:\Users\elisha.l\git\java-docs-samples\spanner\jdbc\src\main\java\com\example\s
 C:\Users\elisha.l\git\java-docs-samples\spanner\jdbc\src\main\java\com\example\spanner\jdbc\CreateConnectionWithDefaultProjectIdExample.java
 C:\Users\elisha.l\git\java-docs-samples\spanner\jdbc\src\main\java\com\example\spanner\jdbc\CreateConnectionWithDataSourceExample.java
 C:\Users\elisha.l\git\java-docs-samples\spanner\jdbc\src\main\java\com\example\spanner\jdbc\BatchDdlExample.java
+<<<<<<< HEAD
 C:\Users\elisha.l\git\java-docs-samples\spanner\jdbc\src\main\java\com\example\spanner\jdbc\HelloWorld.java
+=======
+>>>>>>> 62437d39358985a1902e85558a42537ddb92a68d
 C:\Users\elisha.l\git\java-docs-samples\spanner\jdbc\src\main\java\com\example\spanner\jdbc\CreateConnectionWithCustomHostExample.java
 C:\Users\elisha.l\git\java-docs-samples\spanner\jdbc\src\main\java\com\example\spanner\jdbc\PartitionedDmlExample.java
 C:\Users\elisha.l\git\java-docs-samples\spanner\jdbc\src\main\java\com\example\spanner\jdbc\InsertDataExample.java
